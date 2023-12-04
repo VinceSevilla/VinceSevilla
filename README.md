@@ -1,5 +1,5 @@
 
-```markdown
+
 # Hi there, I'm Vince Sevilla! 👋
 
 ## About Me
@@ -30,5 +30,5 @@ I am Vince Sevilla, a passionate coder with a strong background in database mana
 - Email: juandelacruz@gmail.com
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect! 😊
-```
+
 
