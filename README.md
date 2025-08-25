@@ -17,6 +17,7 @@ I am Vince Sevilla, a passionate coder with a strong background in database mana
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7C63C9F8E0D3F080DC637AFBD7963C6E0B75AC0E05FE06E2530DC412728E46B2)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7C63C9F8E0D3F080DC637AFBD7963C6E0B75AC0E05FE06E2530DC412728E46B2)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/b7beb3cb00c8439a969962875f23008c)
+- [Introduction to Data Science](https://www.netacad.com/certificates?issuanceId=b98ada1e-01c2-4349-b441-560a9258757b)
 
 ## Skills
 
