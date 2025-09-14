@@ -27,7 +27,7 @@ Currently pursuing **BS Computer Science** at **New Era University**, I’m on a
 ## 🛠 Skills  
 
 ### 🔹 Programming  
-`Java` | `JavaScript` | `PHP` | `Python` | `Php` 
+`Java` | `JavaScript` | `PHP` | `Python` 
 
 ### 🔹 Web Development  
 `HTML` | `CSS` | `Bootstrap` | `Node.js` | `React (Basic)`  
